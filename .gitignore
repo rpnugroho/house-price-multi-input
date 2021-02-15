@@ -1,0 +1,8 @@
+.DS_Store/
+.vscode/
+dumps/
+
+# remove this after first init
+models/
+notebooks/
+test-data/
